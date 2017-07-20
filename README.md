@@ -25,7 +25,7 @@ Keyboard shortcut listing for common commands in my Blender tutorials.
 * Shift + D - duplicate selection.  
 
 * Hold down Ctrl - enables snapping.  
-* Hold down Shift - allows for smaller adjustments for all tools like move/rotate/scale.  
+* Hold down Shift - allows for smaller adjustments while using tools like move/rotate/scale.  
   
 **Menus:**  
 * Spacebar - search bar (useful for finding tools if you forget the shortcut).  
