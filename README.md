@@ -6,7 +6,11 @@ Keyboard shortcut listing of common commands used in my Blender tutorials.
 * 3 - side view.  
 * 5 - toggle between perspective and orthographic.  
 *(Note: you must use the numpad keys for this, not the top row of number keys. If you do not have a numpad, enable 'emulate numpad' in the Input section of the user preferences. This will allow you to use the top row of numbers).*
-  
+
+* H - hide selected *(Alt + H to unhide).*
+* Z - toggle wireframe/solid shading.  
+* Shift + C - reset 3d cursor to centre of scene.
+
 **Mode:**
 * Tab - switch between object and edit mode.  
 
@@ -27,26 +31,30 @@ Keyboard shortcut listing of common commands used in my Blender tutorials.
 * Period/fullstop - change pivot to 3d cursor.
 * Comma - change pivot to mesh centre *(or object origin in object mode).*
   
-**Edit:**
+**Edit mode:**
 * E - extrude selection.
 * F - fill face.
-* X - brings up delete menu. 
-* Shift + D - duplicate selection.
+* P - separate selected mesh into new object.
+
+* Alt + M - merge selected vertices. 
 * Ctrl + R - loopcut tool *(cursor position determines location, orientation of cut. Use scrollwheel to increase/decrease number of cuts).* 
 
-**Misc:**
-* H - hide selected *(Alt + H to unhide).*
-* Z - toggle wireframe/solid shading.  
-* Shift + C - reset 3d cursor to centre of scene.
-* Ctrl + A *(in object mode)* - apply transformation.
+* W - 'specials' menu *(subdivide, remove doubles, shading mode, smooth mesh, etc).*  
+* Ctrl + E - edges menu *(edge sliding, and others).* 
+* Ctrl + Tab - mesh selection mode *(vertex/edge/face).*
+* Ctrl + N - recalculate normals of selected vertices *(use this if your mesh has strange lighting defects).*
+
+**Object mode:**
+* Ctrl + J - join two selected objects into single mesh.
+* Ctrl + A - apply transformation on selected object.
+* Ctrl + P - parent first selected object/s to last selected object.
+
+**General:**
+* X - delete selection. 
+* Shift + D - duplicate selection.
+* Shift + A - create new mesh/object.
 
 **Menus:**  
 * Spacebar - search bar *(useful for finding tools if you forget the shortcut).*
-* W - 'specials' menu *(subdivide, remove doubles, shading mode, smooth mesh, etc).*  
-* Ctrl + E - edges menu *(edge sliding, and others).* 
-* Alt + M - merge options for selected vertices. 
-* Shift + A - create mesh/object.
-* Ctrl + Tab *(while in edit mode)* - mesh selection mode (vertex/edge/face).
-
 * N - opens/closes properties panel.  
 * T - opens/closes tool shelf.  
