@@ -1,7 +1,5 @@
 # Blender-Shortcuts
-Keyboard shortcut listing for some of my Blender tutorials
-
-Keyboard shortcuts for RPG graphics E01:
+Keyboard shortcut listing for common commands in my Blender tutorials.
 
 **View:**  
 * 1 - front view.  
@@ -22,14 +20,16 @@ Keyboard shortcuts for RPG graphics E01:
 * Z - toggle wireframe/solid shading.  
   
 * Pressing X or Y or Z while using tool such as grab/rotate/scale, will constrain the transform to that axis.  
-* Ctrl + R - loopcut tool (cursor position determines location, orientation of cut. Use scrollwheel to increase/decrease number of cuts).  
+* Ctrl + R - loopcut tool (cursor position determines location, orientation of cut. Use scrollwheel to increase/decrease number of cuts). 
+* Shift + C - reset 3d cursor to centre of scene.  
 * Shift + D - duplicate selection.  
-  
+
 * Hold down Ctrl - enables snapping.  
 * Hold down Shift - allows for smaller adjustments for all tools like move/rotate/scale.  
   
 **Menus:**  
 * Spacebar - search bar (useful for finding tools if you forget the shortcut).  
+* Shift + A - create mesh/object.
 * W - 'specials' menu (subdivide, shading mode, smooth, etc).  
 * Ctrl + E - edges menu (edge sliding, and others).  
 * Alt + M - brings up merge options for selected vertices.  
