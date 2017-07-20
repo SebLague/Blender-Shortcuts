@@ -25,11 +25,17 @@ Keyboard shortcut listing of common commands used in my Blender tutorials.
 * G - move tool.  
 * R - rotation tool *(double tap R to enter 'trackball rotation' mode).*
 * S - scale tool *(Alt + S to shrink/fatten in edit mode).*  
+* While using transform tool, entering a number will allow you to set exact values for the transformation.
 * Press X or Y or Z *(while using tool such as grab/rotate/scale)* - constrain the transformation to that axis.  
 * Hold down Ctrl - enables snapping.  
 * Hold down Shift - allows for smaller adjustments while using tools like move/rotate/scale.  
 * Period/fullstop - change pivot to 3d cursor.
 * Comma - change pivot to mesh centre *(or object origin in object mode).*
+  
+**General:**
+* X - delete selection. 
+* Shift + D - duplicate selection.
+* Shift + A - create new mesh/object.
   
 **Edit mode:**
 * E - extrude selection.
@@ -43,16 +49,16 @@ Keyboard shortcut listing of common commands used in my Blender tutorials.
 * Ctrl + E - edges menu *(edge sliding, and others).* 
 * Ctrl + Tab - mesh selection mode *(vertex/edge/face).*
 * Ctrl + N - recalculate normals of selected vertices *(use this if your mesh has strange lighting defects).*
+If editting bones, this will recalculate the bone roll instead.
 
 **Object mode:**
 * Ctrl + J - join two selected objects into single mesh.
 * Ctrl + A - apply transformation on selected object.
 * Ctrl + P - parent first selected object/s to last selected object.
 
-**General:**
-* X - delete selection. 
-* Shift + D - duplicate selection.
-* Shift + A - create new mesh/object.
+**Pose mode:**
+* Ctrl + C - copy pose of selected bones.
+* Shift + Ctrl + V - paste copied pose onto other side of rig.
 
 **Menus:**  
 * Spacebar - search bar *(useful for finding tools if you forget the shortcut).*
