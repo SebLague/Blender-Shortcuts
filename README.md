@@ -36,11 +36,12 @@ Keyboard shortcut listing of common commands used in my Blender tutorials.
 * Shift + C - reset 3d cursor to centre of scene.  
 
 **Menus:**  
-* Spacebar - search bar (useful for finding tools if you forget the shortcut).  
-* Shift + A - create mesh/object.
+* Spacebar - search bar (useful for finding tools if you forget the shortcut).
 * W - 'specials' menu (subdivide, shading mode, smooth, etc).  
 * Ctrl + E - edges menu (edge sliding, and others).  
-* Alt + M - brings up merge options for selected vertices.  
+* Alt + M - merge options for selected vertices. 
+* Shift + A - create mesh/object.
+* Ctrl + Tab (while in edit mode) - mesh selection mode (vertex/edge/face).
 
 * N - opens/closes properties panel.  
 * T - opens/closes tool shelf.  
