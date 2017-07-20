@@ -21,6 +21,7 @@ S - scale tool (Alt + S to shrink/fatten).
 X - brings up delete menu.  
 Z - toggle wireframe/solid shading.  
   
+Pressing X or Y or Z while using tool such as grab/rotate/scale, will constrain the transform to that axis.  
 Ctrl + R - loopcut tool (cursor position determines location, orientation of cut. Use scrollwheel to increase/decrease number of cuts).  
 Shift + D - duplicate selection.  
   
