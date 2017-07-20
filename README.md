@@ -19,12 +19,14 @@ Keyboard shortcut listing of common commands used in my Blender tutorials.
   
 **Transform:**
 * G - move tool.  
-* R - rotation tool.  
-* S - scale tool *(Alt + S to shrink/fatten).*  
+* R - rotation tool *(double tap R to enter 'trackball rotation' mode).*
+* S - scale tool *(Alt + S to shrink/fatten in edit mode).*  
 * Press X or Y or Z *(while using tool such as grab/rotate/scale)* - constrain the transformation to that axis.  
 * Hold down Ctrl - enables snapping.  
 * Hold down Shift - allows for smaller adjustments while using tools like move/rotate/scale.  
-
+* Period/fullstop - change pivot to 3d cursor.
+* Comma - change pivot to mesh centre *(or object origin in object mode).*
+  
 **Edit:**
 * E - extrude selection.
 * F - fill face.
