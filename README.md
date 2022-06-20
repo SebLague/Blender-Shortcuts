@@ -49,7 +49,7 @@ Keyboard shortcut listing of common commands used in my Blender tutorials.
 * Ctrl + E - edges menu *(edge sliding, and others).* 
 * Ctrl + Tab - mesh selection mode *(vertex/edge/face).*
 * Ctrl + N - recalculate normals of selected vertices *(use this if your mesh has strange lighting defects).*
-If editting bones, this will recalculate the bone roll instead.
+If editing bones, this will recalculate the bone roll instead.
 
 **Object mode:**
 * Ctrl + J - join two selected objects into single mesh.
@@ -64,3 +64,4 @@ If editting bones, this will recalculate the bone roll instead.
 * Spacebar - search bar *(useful for finding tools if you forget the shortcut).*
 * N - opens/closes properties panel.  
 * T - opens/closes tool shelf.  
+
